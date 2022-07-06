@@ -5,6 +5,6 @@
 
 <p> Before my PhD study, I got my master and bacholar degree from Wuhan University on 2020 and 2017 respectively, supervised by Prof. Kun Qin and Prof. Gui-song Xia. </p>
 
-<ul>
-  <li> <a href="https://scholar.google.com/citations?user=v6RAqYwAAAAJ&hl=zh-CN"> Publication list <\a> <\li>
-<\ul>
+<p>
+  <a href="https://scholar.google.com/citations?user=v6RAqYwAAAAJ&hl=zh-CN"> Publication list <\a> 
+</p>
